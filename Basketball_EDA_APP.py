@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import base64
-import seaborn as sns
 
 st.title("BASKETBALL EDA APP")
 st.markdown("""
